@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 7381096c9459dc648a7ffd1bf7bb26d1
+timeCreated: 1491083121
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cloth_Silk_Front_Depth_of_Field
+    100002: Fill_Light
+    100004: Ground_Plane
+    100006: Key_Light
+    100008: //RootNode
+    100010: Picture
+    100012: Picture_Frame
+    100014: Picture_Supporter
+    100016: Pole
+    100018: Silk_1
+    100020: Silk_2
+    100022: Silk_3
+    400000: Cloth_Silk_Front_Depth_of_Field
+    400002: Fill_Light
+    400004: Ground_Plane
+    400006: Key_Light
+    400008: //RootNode
+    400010: Picture
+    400012: Picture_Frame
+    400014: Picture_Supporter
+    400016: Pole
+    400018: Silk_1
+    400020: Silk_2
+    400022: Silk_3
+    2300000: Cloth_Silk_Front_Depth_of_Field
+    2300002: Fill_Light
+    2300004: Ground_Plane
+    2300006: Key_Light
+    2300008: Picture
+    2300010: Picture_Frame
+    2300012: Picture_Supporter
+    2300014: Pole
+    2300016: Silk_1
+    2300018: Silk_2
+    2300020: Silk_3
+    3300000: Cloth_Silk_Front_Depth_of_Field
+    3300002: Fill_Light
+    3300004: Ground_Plane
+    3300006: Key_Light
+    3300008: Picture
+    3300010: Picture_Frame
+    3300012: Picture_Supporter
+    3300014: Pole
+    3300016: Silk_1
+    3300018: Silk_2
+    3300020: Silk_3
+    4300000: Cloth_Silk_Front_Depth_of_Field
+    4300002: Fill_Light
+    4300004: Key_Light
+    4300006: Picture_Supporter
+    4300008: Picture
+    4300010: Picture_Frame
+    4300012: Pole
+    4300014: Silk_1
+    4300016: Ground_Plane
+    4300018: Silk_3
+    4300020: Silk_2
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
