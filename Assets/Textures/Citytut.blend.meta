@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 53d464953faf7eb44bc6b0cf2bf1d641
+timeCreated: 1491059112
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Antenna
+    100002: cityObject
+    100004: //RootNode
+    100006: ground
+    100008: Icosphere
+    100010: Icosphere_001
+    100012: material_keeper
+    100014: Sec1roof
+    100016: Sec2roof
+    100018: Sec3
+    100020: Sec3_MeshPart0
+    100022: Sec3_MeshPart1
+    100024: Sec3roof
+    100026: Sec4roof
+    100028: Sec5roof
+    100030: streetObject
+    400000: Antenna
+    400002: cityObject
+    400004: //RootNode
+    400006: ground
+    400008: Icosphere
+    400010: Icosphere_001
+    400012: material_keeper
+    400014: Sec1roof
+    400016: Sec2roof
+    400018: Sec3
+    400020: Sec3_MeshPart0
+    400022: Sec3_MeshPart1
+    400024: Sec3roof
+    400026: Sec4roof
+    400028: Sec5roof
+    400030: streetObject
+    2300000: Antenna
+    2300002: cityObject
+    2300004: ground
+    2300006: Icosphere
+    2300008: Icosphere_001
+    2300010: material_keeper
+    2300012: Sec1roof
+    2300014: Sec2roof
+    2300016: Sec3_MeshPart0
+    2300018: Sec3_MeshPart1
+    2300020: Sec3roof
+    2300022: Sec4roof
+    2300024: Sec5roof
+    2300026: streetObject
+    3300000: Antenna
+    3300002: cityObject
+    3300004: ground
+    3300006: Icosphere
+    3300008: Icosphere_001
+    3300010: material_keeper
+    3300012: Sec1roof
+    3300014: Sec2roof
+    3300016: Sec3_MeshPart0
+    3300018: Sec3_MeshPart1
+    3300020: Sec3roof
+    3300022: Sec4roof
+    3300024: Sec5roof
+    3300026: streetObject
+    4300000: Icosphere_001
+    4300002: Icosphere
+    4300004: cityObject
+    4300006: streetObject
+    4300008: ground
+    4300010: material_keeper
+    4300012: Antenna
+    4300014: Sec1roof
+    4300016: Sec2roof
+    4300018: Sec3roof
+    4300020: Sec3_MeshPart0
+    4300022: Sec3_MeshPart1
+    4300024: Sec4roof
+    4300026: Sec5roof
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

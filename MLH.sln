@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLH", "MLH.csproj", "{5D663D41-B1C6-FEEC-5BEF-16770106AD93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLH.Editor", "MLH.Editor.csproj", "{E3FE4E00-1063-D427-9944-6F7B711C7046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D663D41-B1C6-FEEC-5BEF-16770106AD93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D663D41-B1C6-FEEC-5BEF-16770106AD93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D663D41-B1C6-FEEC-5BEF-16770106AD93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D663D41-B1C6-FEEC-5BEF-16770106AD93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3FE4E00-1063-D427-9944-6F7B711C7046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3FE4E00-1063-D427-9944-6F7B711C7046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3FE4E00-1063-D427-9944-6F7B711C7046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3FE4E00-1063-D427-9944-6F7B711C7046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
