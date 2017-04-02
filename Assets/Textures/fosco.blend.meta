@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 790c3f83b38575b4a8fe65386c466fdc
+timeCreated: 1491092830
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BezierCircle
+    100002: BezierCircle_053
+    100004: BezierCurve
+    100006: BezierCurve_001
+    100008: Cube
+    100010: Cylinder
+    100012: Cylinder_001
+    100014: Cylinder_002
+    100016: Cylinder_003
+    100018: //RootNode
+    100020: Monkey
+    100022: Monkey_MeshPart0
+    100024: Monkey_MeshPart1
+    100026: Monkey_MeshPart2
+    100028: Monkey_MeshPart3
+    100030: PE
+    100032: Plane
+    100034: Plane_001
+    100036: topo
+    400000: BezierCircle
+    400002: BezierCircle_053
+    400004: BezierCurve
+    400006: BezierCurve_001
+    400008: Cube
+    400010: Cylinder
+    400012: Cylinder_001
+    400014: Cylinder_002
+    400016: Cylinder_003
+    400018: //RootNode
+    400020: Monkey
+    400022: Monkey_MeshPart0
+    400024: Monkey_MeshPart1
+    400026: Monkey_MeshPart2
+    400028: Monkey_MeshPart3
+    400030: PE
+    400032: Plane
+    400034: Plane_001
+    400036: topo
+    2300000: BezierCircle
+    2300002: BezierCircle_053
+    2300004: BezierCurve
+    2300006: BezierCurve_001
+    2300008: Cube
+    2300010: Cylinder
+    2300012: Cylinder_001
+    2300014: Cylinder_002
+    2300016: Cylinder_003
+    2300018: Monkey_MeshPart0
+    2300020: Monkey_MeshPart1
+    2300022: Monkey_MeshPart2
+    2300024: Monkey_MeshPart3
+    2300026: PE
+    2300028: Plane
+    2300030: Plane_001
+    2300032: topo
+    3300000: BezierCircle
+    3300002: BezierCircle_053
+    3300004: BezierCurve
+    3300006: BezierCurve_001
+    3300008: Cube
+    3300010: Cylinder
+    3300012: Cylinder_001
+    3300014: Cylinder_002
+    3300016: Cylinder_003
+    3300018: Monkey_MeshPart0
+    3300020: Monkey_MeshPart1
+    3300022: Monkey_MeshPart2
+    3300024: Monkey_MeshPart3
+    3300026: PE
+    3300028: Plane
+    3300030: Plane_001
+    3300032: topo
+    4300000: Cylinder_003
+    4300002: Cylinder_002
+    4300004: Cylinder_001
+    4300006: Cylinder
+    4300008: Plane_001
+    4300010: Cube
+    4300012: Monkey_MeshPart0
+    4300014: Monkey_MeshPart1
+    4300016: Monkey_MeshPart2
+    4300018: Monkey_MeshPart3
+    4300020: Plane
+    4300022: BezierCircle
+    4300024: BezierCurve_001
+    4300026: BezierCurve
+    4300028: PE
+    4300030: topo
+    4300032: BezierCircle_053
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

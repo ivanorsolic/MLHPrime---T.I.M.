@@ -362,13 +362,13 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 71
-  m_LastProjectPath: C:\Users\leora\Desktop\MLH
+  m_LastProjectPath: C:\Users\leora\Desktop\MLHPrime
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b62b0000
-    m_LastClickedID: 11190
-    m_ExpandedIDs: 00000000b62b00009e2c000068310000a031000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 95}
+    m_SelectedIDs: 683d0000
+    m_LastClickedID: 15720
+    m_ExpandedIDs: 00000000683d0000c03d0000283e0000463e000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -396,7 +396,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b62b00009e2c000068310000a0310000
+    m_ExpandedIDs: 00000000683d0000c03d0000283e0000463e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -514,7 +514,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: c84efcff544ffcff5450fcff8056fcff8a56fcff0258fcff8e58fcff8e59fcffba5ffcffc45ffcffa2cffeffa8cffeff62d6feff58d9feff963affff6e9fffff5aa8fffffeafffff2ab1ffffa2b6ffffa2beffffd6c2ffffdccaffffaaccffff88dafffffce6ffff08e9fffff4eafffff4ffffff00000000
+    m_ExpandedIDs: 8cbcfeff1ebdfeff24befeff40befeff6cc4feff76c4feffb8d2feff9ad6feff02d7feff0cd8feff10d8feff3cdefeff46defeff62e5feff62e7feff34e8feff3ae9feff56e9feff82effeff8ceffeff16f1feffaaf2feff3ef3feff46f4feff4cf4feff7afafeff86fafeff8c74ffff5c7bffff5e82ffff3283ffff00000000002e0100b44a0100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -533,7 +533,7 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 4}
     m_SearchString: 
   m_ExpandedScenes:
-  - Space
+  - Holodeck
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -564,14 +564,14 @@ MonoBehaviour:
     width: 957
     height: 455
   m_SceneLighting: 1
-  lastFramingTime: 15803.681008849413
+  lastFramingTime: 3147.6964390954627
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 17.938103, y: -6.649065, z: 6.5674562}
+    m_Target: {x: 15.775958, y: 3.0785172, z: 0.7389548}
     speed: 2
-    m_Value: {x: 17.938103, y: -6.649065, z: 6.5674562}
+    m_Value: {x: 15.775958, y: 3.0785172, z: 0.7389548}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -594,13 +594,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.13743332, y: 0.68637776, z: -0.13449739, w: 0.70136166}
+    m_Target: {x: -0.00000040763473, y: 0.37323514, z: 0.0000007120683, w: -0.92773676}
     speed: 2
-    m_Value: {x: 0.13743332, y: 0.68637776, z: -0.13449739, w: 0.70136166}
+    m_Value: {x: -0.00000040763476, y: 0.37323517, z: 0.00000071206836, w: -0.9277368}
   m_Size:
-    m_Target: 45.31049
+    m_Target: 4.8452344
     speed: 2
-    m_Value: 45.31049
+    m_Value: 4.8452344
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -633,10 +633,10 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 312
-    y: 100
-    width: 919
-    height: 433
+    x: 317
+    y: 92
+    width: 957
+    height: 455
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
   m_Stats: 0
@@ -645,10 +645,10 @@ MonoBehaviour:
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
-    m_HBaseRangeMin: -459.5
-    m_HBaseRangeMax: 459.5
-    m_VBaseRangeMin: -208
-    m_VBaseRangeMax: 208
+    m_HBaseRangeMin: -478.5
+    m_HBaseRangeMax: 478.5
+    m_VBaseRangeMin: -219
+    m_VBaseRangeMax: 219
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -665,25 +665,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 919
-      height: 416
+      width: 957
+      height: 438
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 459.5, y: 208}
+    m_Translation: {x: 478.5, y: 219}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -459.5
-      y: -208
-      width: 919
-      height: 416
+      x: -478.5
+      y: -219
+      width: 957
+      height: 438
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 919, y: 433}
+  m_LastWindowPixelSize: {x: 957, y: 455}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -709,7 +709,7 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 8
-    y: 544
-    width: 1210
-    height: 250
+    x: 0
+    y: 568
+    width: 1274
+    height: 270

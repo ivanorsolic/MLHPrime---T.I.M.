@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLHPrime", "MLHPrime.csproj", "{F7DA5918-D360-3354-C145-A19532FF6985}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLHPrime.Editor", "MLHPrime.Editor.csproj", "{DD39CDD0-E56E-87EF-E304-B4352B049D0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7DA5918-D360-3354-C145-A19532FF6985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7DA5918-D360-3354-C145-A19532FF6985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7DA5918-D360-3354-C145-A19532FF6985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7DA5918-D360-3354-C145-A19532FF6985}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD39CDD0-E56E-87EF-E304-B4352B049D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD39CDD0-E56E-87EF-E304-B4352B049D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD39CDD0-E56E-87EF-E304-B4352B049D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD39CDD0-E56E-87EF-E304-B4352B049D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

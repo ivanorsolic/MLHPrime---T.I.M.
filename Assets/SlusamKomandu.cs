@@ -15,6 +15,10 @@ public class SlusamKomandu : MonoBehaviour
     bool inst = false;
     EchoHub hub;
 
+    private bool _inst;
+    public static bool IsRotating = false;
+    private List<GameObject> _planets;
+
     void Start()
     {
 
@@ -51,7 +55,24 @@ public class SlusamKomandu : MonoBehaviour
             inst = true;
         }
 
+        _planets = new List<GameObject>
+        {
+            GameObject.Find("Mercury"),
+            GameObject.Find("Venera"),
+            GameObject.Find("Earth"),
+            GameObject.Find("Moon"),
+            GameObject.Find("Mars"),
+            GameObject.Find("Jupiter"),
+            GameObject.Find("Saturn"),
+            GameObject.Find("Uranus"),
+            GameObject.Find("Pluton")
+        };
 
+
+    }
+    private void TogglePlanets(bool val)
+    {
+        _planets.ForEach(x => x.SetActive(val));
     }
 
     public void ChangeScene()
@@ -80,6 +101,28 @@ public class SlusamKomandu : MonoBehaviour
 
 
                 break;
+            case "holodeck":
+                print("Holodeck");
+                Application.LoadLevel("Holodeck");
+                break;
+            case "space-start":
+                IsRotating = true;
+               
+                break;
+
+            case "space-stop":
+                IsRotating = false;
+
+                break;
+            case "planet-show":
+                this.TogglePlanets(true);
+
+                break;
+            case "planet-hide":
+                this.TogglePlanets(false);
+
+                break;
+
         }
 
     }
@@ -88,6 +131,11 @@ public class SlusamKomandu : MonoBehaviour
     void Update()
     {
         ChangeScene();
+    }
+
+    void Space(bool sto)
+    {
+       
     }
 }
 
